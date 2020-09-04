@@ -20,7 +20,7 @@
     "firebase-functions": "^3.1.0",
     "graphql": "^14.4.2",
     "reflect-metadata": "^0.1.13",
-    "type-graphql": "^0.17.4"
+    "type-graphql": "^0.17.6"
   },
   "devDependencies": {
     "@types/node": "^12.7.1",
